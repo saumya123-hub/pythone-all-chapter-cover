@@ -1,0 +1,10 @@
+# perform arithmetic operators
+a = float(input("enter the number a"))
+b = float(input("enter the number b"))
+print("addition of the number :",a+b)
+print("multiplication of the number :",a*b)
+print("subtraction of the number :",a-b)
+print("division of the number :",a/b)
+print("modulus of the number :",a%b)
+print("exponent of the number :",a**b)
+print("floor division of the number :",a//b)

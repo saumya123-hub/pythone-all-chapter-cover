@@ -1,0 +1,8 @@
+print("Hii")
+print("My name is saumya")
+print("welcome to Ai world")
+print("Today learning python")
+print("starting")
+print("print")
+print("Hello world")
+print("Bonjoo")

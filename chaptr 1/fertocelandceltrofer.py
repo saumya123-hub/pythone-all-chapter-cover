@@ -1,0 +1,6 @@
+fahrenheit = float(input("enter the fahrenheit :"))
+celsius = 5/9 *(fahrenheit-32)
+print("temperature in degree in ",celsius)
+celcius = float(input("enter the celcius :"))
+fahrenheit = 9/5*(celcius+32)
+print("tempertue in degree in ",fahrenheit)

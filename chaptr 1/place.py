@@ -1,0 +1,7 @@
+a = float(input("enter the number :"))
+print("one place is : ", a%10)
+print("hundred place is : ", a%100)
+print("thousand place is : ", a%1000)
+print("ten thousand place is : ", a%10000)
+print("lakh place is : ", a%100000)
+print("ten lakh place is : ", a%1000000)

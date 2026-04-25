@@ -1,0 +1,1 @@
+print("saumya gupta",end=" \n  " "fruity kumari")

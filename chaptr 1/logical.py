@@ -1,0 +1,5 @@
+a = int(input("enter the number of a"))
+b = int(input("enter the number of b"))
+print("logical and(a&&b)",a>10 and b<10)
+print("logical or(a||b)",a>10 or b<10)
+print("logical not(!a)",a>10)
